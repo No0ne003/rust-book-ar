@@ -47,3 +47,8 @@
 		calc(var(--sidebar-resize-indicator-width) - var(--sidebar-width))
 	);
 }
+
+code {
+	direction: ltr;
+	text-align: left;
+}
